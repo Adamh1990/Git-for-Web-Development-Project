@@ -95,7 +95,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     
     28. How do I add a 1px border around my div that is dotted and black?
             div {
-                border: ##px dotted black
+                border: 1px dotted black
             }
     
     29. How do I select everything on the page? 
